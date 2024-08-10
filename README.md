@@ -1,5 +1,5 @@
 ---
-title: ImageChatbot
+title: Image Chatbot (llava-v1.6-mistral-7b)
 emoji: 🖼️
 colorFrom: blue
 colorTo: yellow
